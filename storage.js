@@ -1,10 +1,15 @@
-const Store = {
-  key:"teacherQuest_v1",
-  get(){
-    try{return JSON.parse(localStorage.getItem(this.key))||this.default();}
-    catch(e){return this.default();}
-  },
-  set(p){localStorage.setItem(this.key,JSON.stringify(p));},
-  default(){return {xp:0,attempts:0,correct:0,wrong:[],recent:[],combo:0,bestCombo:0,standardMastery:{S1:.5,S2:.5,S3:.5,S4:.5,S5:.5}};},
-  reset(){localStorage.removeItem(this.key);location.reload();}
+const STORAGE_KEY = "teacher_quest_v3_state";
+const defaultState = {
+  version: 3, index: 0, score: 0, xp: 0, streak: 0, answered: 0,
+  mastered: {}, wrong: {}, seen: {}, history: [], mode: "mixed"
 };
+function loadState(){
+  try{
+    const raw=localStorage.getItem(STORAGE_KEY);
+    if(!raw) return structuredClone(defaultState);
+    const s=JSON.parse(raw);
+    return {...structuredClone(defaultState), ...s};
+  }catch(e){ return structuredClone(defaultState); }
+}
+function saveState(state){ localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); }
+function resetProgress(){ localStorage.removeItem(STORAGE_KEY); location.reload(); }
