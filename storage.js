@@ -1,0 +1,1 @@
+window.ST={load(){try{return JSON.parse(localStorage.getItem('TQ6'))||this.d()}catch(e){return this.d()}},d(){return{xp:0,streak:0,best:0,answered:0,correct:0,cat:{},seen:[]}},save(x){localStorage.setItem('TQ6',JSON.stringify(x))},reset(){localStorage.removeItem('TQ6');return this.d()}};

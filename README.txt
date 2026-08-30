@@ -1,8 +1,4 @@
-Teacher Quest V6 — Ultimate Academy
-เปิด index.html ได้ทันทีบนมือถือ/iPad หรือโฮสต์เป็นเว็บ static
-โหมด: Mission Mix, Boss Scenario, Quick Run, Study Run
-คำถามจากคลัง สครภ. ถูกทำเครื่องหมาย “ข้อจากคลัง” และโจทย์ที่ดัดแปลงเป็น “ต่อยอดจากคลัง”
-ระบบสุ่มตำแหน่งตัวเลือก ไม่มี A/B/C/D/E
-หลังตอบมีคำตอบ + เหตุผล + สิ่งที่ต้องเข้าใจ + เทคนิคจับโจทย์
-มี XP, streak, สถิติรายหมวด, Academy และ reset progress
-แหล่งหลักของคำถามที่อ้างในเวอร์ชันนี้: 863598_ข้อสอบคู่ขนานสำหรับนักศึกษา.pdf
+Teacher Quest V6.1 Stable
+
+อัปโหลดไฟล์ทั้งหมด 8 ไฟล์ไว้ที่ root ของ repository เดิม แล้วใช้ GitHub Pages จาก main/root
+จุดสำคัญ: เวอร์ชันนี้รวม engine.js, game.js และ storage.js ครบแล้ว และ index.html เรียกไฟล์ครบตามลำดับ
