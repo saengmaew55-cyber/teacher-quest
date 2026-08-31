@@ -1,6 +1,9 @@
-Teacher Quest V9 Stable
-1) แตก ZIP
-2) เปิด index.html
-3) ใช้เมนูด้านล่าง: หน้าหลัก / เรียน / ข้อสอบ / วิเคราะห์
-
-สำคัญ: ฐานข้อมูลนี้แยก “ข้อที่มีเฉลยยืนยันจากต้นฉบับ” กับ “ข้อจากต้นฉบับที่ยังไม่พบเฉลยในข้อความที่อ่านได้” เพื่อไม่ให้ระบบเดาคำตอบแทนแหล่งข้อมูล
+Teacher Quest V10
+- 167 source-bank questions from prior extracted master bank
+- random mixed quiz
+- one question per screen
+- tap selected choice again to cancel
+- no A/B/C/D/E labels
+- stimulus field for source situations where available
+- answerless source questions are not scored
+- category learning + percentage analysis

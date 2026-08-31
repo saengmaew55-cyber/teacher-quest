@@ -1,7 +1,13 @@
 {
-  "version": "V9 Stable",
-  "verified_question_count": 83,
-  "answerable_count": 53,
-  "source_only_count": 30,
-  "note": "ไม่อ้างว่าคลังนี้รวมทุกข้อจากไฟล์ทั้งหมด เพราะบางหน้าของไฟล์คู่ขนานไม่มีเฉลยในช่วงที่ระบบอ่านได้"
+  "version": "V10",
+  "total_questions": 167,
+  "categories": {
+    "การประกันคุณภาพและการบริหารจัดการ": 22,
+    "การวัด ประเมินผล และการวิจัยทางการศึกษา": 51,
+    "การเปลี่ยนแปลงบริบทของโลก สังคม และปรัชญาเศรษฐกิจพอเพียง": 30,
+    "จิตวิทยาพัฒนาการ จิตวิทยาการศึกษา และการให้คำปรึกษา": 25,
+    "หลักสูตร ศาสตร์การสอน และเทคโนโลยีดิจิทัลในการจัดการเรียนรู้": 39
+  },
+  "source_bank": "Teacher_Quest_Master_QuestionBank_167Q",
+  "rule": "source questions are preserved; answerless source questions are not scored"
 }
