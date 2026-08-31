@@ -1,9 +1,1 @@
-Teacher Quest V10
-- 167 source-bank questions from prior extracted master bank
-- random mixed quiz
-- one question per screen
-- tap selected choice again to cancel
-- no A/B/C/D/E labels
-- stimulus field for source situations where available
-- answerless source questions are not scored
-- category learning + percentage analysis
+Teacher Quest V11 — ใช้คลังข้อสอบต้นฉบับ 167 ข้อในโหมดสอบ; สุ่มข้ามหมวด, เก็บสถานการณ์/ข้อมูล, สลับตัวเลือก, ยกเลิกคำตอบได้, ทีละข้อ, ห้องเรียนแยกหมวด, กิจกรรม และวิเคราะห์เปอร์เซ็นต์หมวด/ประเภทโจทย์.
