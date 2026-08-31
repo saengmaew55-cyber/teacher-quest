@@ -22,7 +22,8 @@
     "stimulus": "ชุดข้อมูลสถานการณ์โรงเรียน C: ข้อ 1–8 ในชุดนี้เป็นคำถามต่อเนื่องที่ให้วิเคราะห์ข้อมูล SWOT และผล O-NET ของโรงเรียน A, B และ C ตามตารางที่ปรากฏในข้อสอบต้นฉบับ",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": 4
   },
   {
     "id": "Q002",
@@ -47,7 +48,8 @@
     "stimulus": "ใช้ข้อมูลสถานการณ์เดียวกับข้อ 1: วิเคราะห์ข้อมูลโรงเรียน C ในมิติ SWOT",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": 3
   },
   {
     "id": "Q003",
@@ -72,7 +74,8 @@
     "stimulus": "ใช้ข้อมูลสถานการณ์เดียวกับข้อ 1: วิเคราะห์ข้อมูลโรงเรียน C ในมิติ SWOT",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": 2
   },
   {
     "id": "Q004",
@@ -97,7 +100,8 @@
     "stimulus": "ใช้ข้อมูลสถานการณ์เดียวกับข้อ 1: วิเคราะห์ข้อมูลโรงเรียน C ในมิติ SWOT",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": 1
   },
   {
     "id": "Q005",
@@ -122,7 +126,8 @@
     "stimulus": "ใช้ข้อมูลสถานการณ์เดียวกับข้อ 1: วิเคราะห์ข้อมูล SWOT ของโรงเรียน C",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": 0
   },
   {
     "id": "Q006",
@@ -147,7 +152,8 @@
     "stimulus": "ข้อมูลประกอบ: ตารางคะแนน O-NET และ T-Score ของโรงเรียน A, B และ C ในกลุ่มสาระภาษาไทย คณิตศาสตร์ ภาษาอังกฤษ วิทยาศาสตร์ และสุขศึกษาและพลศึกษา (ตามตารางในข้อสอบต้นฉบับ)",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": 0
   },
   {
     "id": "Q007",
@@ -172,7 +178,8 @@
     "stimulus": "ใช้ตารางคะแนน O-NET/T-Score ของโรงเรียน A, B และ C ที่ปรากฏในข้อ 6 ของชุดต้นฉบับ",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": 2
   },
   {
     "id": "Q008",
@@ -197,7 +204,8 @@
     "stimulus": "ใช้ตารางคะแนน O-NET/T-Score ของโรงเรียน A, B และ C ที่ปรากฏในข้อ 6 ของชุดต้นฉบับ",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": 4
   },
   {
     "id": "Q009",
@@ -222,7 +230,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": 0
   },
   {
     "id": "Q010",
@@ -247,7 +256,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": 0
   },
   {
     "id": "Q011",
@@ -272,7 +282,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 3
   },
   {
     "id": "Q012",
@@ -297,7 +308,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 0
   },
   {
     "id": "Q013",
@@ -322,7 +334,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 3
   },
   {
     "id": "Q014",
@@ -347,7 +360,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 0
   },
   {
     "id": "Q015",
@@ -372,7 +386,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 0
   },
   {
     "id": "Q016",
@@ -397,7 +412,8 @@
     "stimulus": "สถานการณ์: ครูจิราพรสอนภาษาไทย ป.3 เรื่องอักษรนำ และกำหนดพฤติกรรมที่ต้องวัด 4 ข้อ ได้แก่ เขียนคำอักษรนำ, อธิบายความหมาย, บอกคำอักษรนำ และมีมารยาทในการฟัง/พูด/อ่าน/เขียน",
     "has_stimulus": true,
     "question_type": "วิเคราะห์สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 4
   },
   {
     "id": "Q017",
@@ -422,7 +438,8 @@
     "stimulus": "ใช้สถานการณ์เดียวกับข้อ 7–10: นักเรียน 5 คนมีคะแนนระหว่างเรียน 50 คะแนน สอบกลางภาค 20 คะแนน สอบปลายภาค 30 คะแนน และเกณฑ์ผ่านคือไม่ต่ำกว่าร้อยละ 60",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 1
   },
   {
     "id": "Q018",
@@ -447,7 +464,8 @@
     "stimulus": "ใช้ตารางผลการวัดและประเมินผลนักเรียน 5 คนจากสถานการณ์ข้อ 7–10 โดยเกณฑ์ผ่านระหว่างเรียนคือ 30 จาก 50 คะแนน",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 2
   },
   {
     "id": "Q019",
@@ -472,7 +490,8 @@
     "stimulus": "ใช้ตารางผลการวัดและประเมินผลนักเรียน 5 คนจากสถานการณ์ข้อ 7–10 โดยเกณฑ์ผ่านสอบกลางภาคคือ 12 จาก 20 คะแนน",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 2
   },
   {
     "id": "Q020",
@@ -497,7 +516,8 @@
     "stimulus": "ใช้ตารางผลการวัดและประเมินผลนักเรียน 5 คนจากสถานการณ์ข้อ 7–10 โดยเกณฑ์ผ่านสอบปลายภาคคือ 18 จาก 30 คะแนน",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 4
   },
   {
     "id": "Q021",
@@ -522,7 +542,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 3
   },
   {
     "id": "Q022",
@@ -547,7 +568,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 2
   },
   {
     "id": "Q023",
@@ -572,7 +594,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 2
   },
   {
     "id": "Q024",
@@ -597,7 +620,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 2
   },
   {
     "id": "Q025",
@@ -622,7 +646,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 1
   },
   {
     "id": "Q026",
@@ -647,7 +672,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 4
   },
   {
     "id": "Q027",
@@ -672,7 +698,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 3
   },
   {
     "id": "Q028",
@@ -697,7 +724,8 @@
     "stimulus": "",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 2
   },
   {
     "id": "Q029",
@@ -722,7 +750,8 @@
     "stimulus": "",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 4
   },
   {
     "id": "Q030",
@@ -747,7 +776,8 @@
     "stimulus": "",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 3
   },
   {
     "id": "Q031",
@@ -772,7 +802,8 @@
     "stimulus": "",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 3
   },
   {
     "id": "Q032",
@@ -797,7 +828,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 3
   },
   {
     "id": "Q033",
@@ -822,7 +854,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 4
   },
   {
     "id": "Q034",
@@ -847,7 +880,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 3
   },
   {
     "id": "Q035",
@@ -872,7 +906,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": 3
   },
   {
     "id": "Q036",
@@ -897,7 +932,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 0
   },
   {
     "id": "Q037",
@@ -922,7 +958,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 1
   },
   {
     "id": "Q038",
@@ -947,7 +984,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 3
   },
   {
     "id": "Q039",
@@ -972,7 +1010,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 4
   },
   {
     "id": "Q040",
@@ -997,7 +1036,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 3
   },
   {
     "id": "Q041",
@@ -1022,7 +1062,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 4
   },
   {
     "id": "Q042",
@@ -1047,7 +1088,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 3
   },
   {
     "id": "Q043",
@@ -1072,7 +1114,8 @@
     "stimulus": "ใช้สถานการณ์งานวิจัยในชุดต้นฉบับ: วัตถุประสงค์การวิจัยต้องจับคู่กับเครื่องมือเก็บข้อมูลที่เหมาะสม",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 1
   },
   {
     "id": "Q044",
@@ -1097,7 +1140,8 @@
     "stimulus": "ใช้สถานการณ์งานวิจัยในชุดต้นฉบับ: วัตถุประสงค์การวิจัยต้องจับคู่กับเครื่องมือเก็บข้อมูลที่เหมาะสม",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 3
   },
   {
     "id": "Q045",
@@ -1122,7 +1166,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 0
   },
   {
     "id": "Q046",
@@ -1147,7 +1192,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 4
   },
   {
     "id": "Q047",
@@ -1172,7 +1218,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 4
   },
   {
     "id": "Q048",
@@ -1197,7 +1244,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 0
   },
   {
     "id": "Q049",
@@ -1222,7 +1270,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 1
   },
   {
     "id": "Q050",
@@ -1247,7 +1296,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 4
   },
   {
     "id": "Q051",
@@ -1272,7 +1322,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 4
   },
   {
     "id": "Q052",
@@ -1297,7 +1348,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 3
   },
   {
     "id": "Q053",
@@ -1322,7 +1374,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": 3
   },
   {
     "id": "Q054",
@@ -1347,7 +1400,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q055",
@@ -1372,7 +1426,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q056",
@@ -1397,7 +1452,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q057",
@@ -1422,7 +1478,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q058",
@@ -1447,7 +1504,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q059",
@@ -1472,7 +1530,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q060",
@@ -1497,7 +1556,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q061",
@@ -1522,7 +1582,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q062",
@@ -1547,7 +1608,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q063",
@@ -1572,7 +1634,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q064",
@@ -1597,7 +1660,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q065",
@@ -1622,7 +1686,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q066",
@@ -1647,7 +1712,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q067",
@@ -1672,7 +1738,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q068",
@@ -1697,7 +1764,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q069",
@@ -1722,7 +1790,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q070",
@@ -1747,7 +1816,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q071",
@@ -1772,7 +1842,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q072",
@@ -1797,7 +1868,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q073",
@@ -1822,7 +1894,8 @@
     "stimulus": "สถานการณ์: มาตรการเว้นระยะทางสังคมจาก COVID-19 ทำให้โรงเรียนจัดการเรียนการสอนได้หลายวิธีและลดการเผชิญหน้าระหว่างกัน",
     "has_stimulus": true,
     "question_type": "วิเคราะห์สถานการณ์",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q074",
@@ -1847,7 +1920,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q075",
@@ -1872,7 +1946,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q076",
@@ -1897,7 +1972,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q077",
@@ -1922,7 +1998,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q078",
@@ -1947,7 +2024,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q079",
@@ -1972,7 +2050,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q080",
@@ -1997,7 +2076,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q081",
@@ -2022,7 +2102,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q082",
@@ -2047,7 +2128,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q083",
@@ -2072,7 +2154,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง"
+    "learning_hub": "บริบทโลก/สังคม/เศรษฐกิจพอเพียง",
+    "_answer0": null
   },
   {
     "id": "Q084",
@@ -2097,7 +2180,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q085",
@@ -2122,7 +2206,8 @@
     "stimulus": "สถานการณ์: เด็กชายณเดชอยู่นิ่งไม่ได้ ก่อกวนเพื่อน และตะโกนเสียงดัง ครูต้องเลือกวิธีเก็บข้อมูลเพื่อทำความเข้าใจพฤติกรรม",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q086",
@@ -2147,7 +2232,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q087",
@@ -2172,7 +2258,8 @@
     "stimulus": "",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q088",
@@ -2197,7 +2284,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q089",
@@ -2222,7 +2310,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q090",
@@ -2247,7 +2336,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q091",
@@ -2272,7 +2362,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q092",
@@ -2297,7 +2388,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q093",
@@ -2322,7 +2414,8 @@
     "stimulus": "",
     "has_stimulus": true,
     "question_type": "วิเคราะห์สถานการณ์",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q094",
@@ -2347,7 +2440,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q095",
@@ -2372,7 +2466,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q096",
@@ -2397,7 +2492,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q097",
@@ -2422,7 +2518,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q098",
@@ -2447,7 +2544,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q099",
@@ -2472,7 +2570,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q100",
@@ -2497,7 +2596,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q101",
@@ -2522,7 +2622,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q102",
@@ -2547,7 +2648,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q103",
@@ -2572,7 +2674,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q104",
@@ -2597,7 +2700,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q105",
@@ -2622,7 +2726,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q106",
@@ -2647,7 +2752,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q107",
@@ -2672,7 +2778,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "คำนวณ/ตีความข้อมูล",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q108",
@@ -2697,7 +2804,8 @@
     "stimulus": "สถานการณ์: ด.ญ.กาญจนาตั้งใจเรียนมาตลอด แต่ช่วง 1 เดือนหลังเริ่มหลับในชั้นเรียนเป็นประจำ ครูต้องเลือกวิธีเก็บข้อมูลเพื่อหาสาเหตุ",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา"
+    "learning_hub": "จิตวิทยา/พัฒนาการ/การให้คำปรึกษา",
+    "_answer0": null
   },
   {
     "id": "Q109",
@@ -2722,7 +2830,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": null
   },
   {
     "id": "Q110",
@@ -2747,7 +2856,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": null
   },
   {
     "id": "Q111",
@@ -2772,7 +2882,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": null
   },
   {
     "id": "Q112",
@@ -2797,7 +2908,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": null
   },
   {
     "id": "Q113",
@@ -2822,7 +2934,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": null
   },
   {
     "id": "Q114",
@@ -2847,7 +2960,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": null
   },
   {
     "id": "Q115",
@@ -2872,7 +2986,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": null
   },
   {
     "id": "Q116",
@@ -2897,7 +3012,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": null
   },
   {
     "id": "Q117",
@@ -2922,7 +3038,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": null
   },
   {
     "id": "Q118",
@@ -2947,7 +3064,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": null
   },
   {
     "id": "Q119",
@@ -2972,7 +3090,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": null
   },
   {
     "id": "Q120",
@@ -2997,7 +3116,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "คำนวณ/ตีความข้อมูล",
-    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ"
+    "learning_hub": "ประกันคุณภาพ/บริหาร/จรรยาบรรณ",
+    "_answer0": null
   },
   {
     "id": "Q121",
@@ -3022,7 +3142,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q122",
@@ -3047,7 +3168,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q123",
@@ -3072,7 +3194,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q124",
@@ -3097,7 +3220,8 @@
     "stimulus": "สถานการณ์: ครูวารีพบว่านักเรียนสอบผ่านเพียง 5 จาก 30 คน จึงสังเกตและรวบรวมข้อมูลเพื่อหาสาเหตุและแก้ปัญหา",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q125",
@@ -3122,7 +3246,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "คำนวณ/ตีความข้อมูล",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q126",
@@ -3147,7 +3272,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "คำนวณ/ตีความข้อมูล",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q127",
@@ -3172,7 +3298,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q128",
@@ -3197,7 +3324,8 @@
     "stimulus": "สถานการณ์: ครูเอใช้การสอนและประเมินผลย่อยสลับกัน แล้วนำผลประเมินมาออกแบบการสอนและให้เพื่อนช่วยเพื่อน",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q129",
@@ -3222,7 +3350,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q130",
@@ -3247,7 +3376,8 @@
     "stimulus": "สถานการณ์เกี่ยวกับการใช้ข้อมูลป้อนกลับ (Feedback) ในการจัดการเรียนรู้ โดยให้พิจารณาว่าวิธีใดใช้ไม่ถูกต้อง",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q131",
@@ -3272,7 +3402,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "คำนวณ/ตีความข้อมูล",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q132",
@@ -3297,7 +3428,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "คำนวณ/ตีความข้อมูล",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q133",
@@ -3322,7 +3454,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q134",
@@ -3347,7 +3480,8 @@
     "stimulus": "ใช้สถานการณ์ปัญหาวิจัยในชั้นเรียนจากชุดต้นฉบับเพื่อระบุปัญหาสำคัญ",
     "has_stimulus": true,
     "question_type": "วิเคราะห์สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q135",
@@ -3372,7 +3506,8 @@
     "stimulus": "ใช้สถานการณ์เดียวกับข้อ 134 เพื่อกำหนดปัญหาวิจัยเพื่อพัฒนาการเรียนรู้",
     "has_stimulus": true,
     "question_type": "วิเคราะห์สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q136",
@@ -3397,7 +3532,8 @@
     "stimulus": "สถานการณ์: ครูปิยะทำวิจัยพัฒนาพฤติกรรมใฝ่รู้ของนักเรียน ป.5 และนักเรียนบางคนรู้ตัวว่ากำลังถูกเก็บข้อมูล",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q137",
@@ -3422,7 +3558,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q138",
@@ -3447,7 +3584,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q139",
@@ -3472,7 +3610,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q140",
@@ -3497,7 +3636,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "คำนวณ/ตีความข้อมูล",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q141",
@@ -3522,7 +3662,8 @@
     "stimulus": "สถานการณ์: นักเรียน ป.1 ยังแจกรูปสะกดคำไม่ได้และเบื่อการเรียนภาษาไทย ครูจึงใช้ชุดฝึก...",
     "has_stimulus": true,
     "question_type": "วิเคราะห์สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q142",
@@ -3547,7 +3688,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q143",
@@ -3572,7 +3714,8 @@
     "stimulus": "สถานการณ์: ครูรังสิตพบผู้เรียนขาดทักษะการใช้ตารางธาตุ จึงวิจัยโดยใช้ชุดกิจกรรมร่วมกับเกมวิทยาศาสตร์",
     "has_stimulus": true,
     "question_type": "วิเคราะห์ข้อมูล/สถานการณ์",
-    "learning_hub": "วัดผล/ประเมินผล/วิจัย"
+    "learning_hub": "วัดผล/ประเมินผล/วิจัย",
+    "_answer0": null
   },
   {
     "id": "Q144",
@@ -3597,7 +3740,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q145",
@@ -3622,7 +3766,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q146",
@@ -3647,7 +3792,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q147",
@@ -3672,7 +3818,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q148",
@@ -3697,7 +3844,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q149",
@@ -3722,7 +3870,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q150",
@@ -3747,7 +3896,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q151",
@@ -3772,7 +3922,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q152",
@@ -3797,7 +3948,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q153",
@@ -3822,7 +3974,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q154",
@@ -3847,7 +4000,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q155",
@@ -3872,7 +4026,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q156",
@@ -3897,7 +4052,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q157",
@@ -3922,7 +4078,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q158",
@@ -3947,7 +4104,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "คำนวณ/ตีความข้อมูล",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q159",
@@ -3972,7 +4130,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q160",
@@ -3997,7 +4156,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q161",
@@ -4022,7 +4182,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q162",
@@ -4047,7 +4208,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q163",
@@ -4072,7 +4234,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q164",
@@ -4097,7 +4260,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q165",
@@ -4122,7 +4286,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "วิเคราะห์หลักการ/ตัดสินใจ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q166",
@@ -4147,7 +4312,8 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   },
   {
     "id": "Q167",
@@ -4172,6 +4338,7 @@
     "stimulus": "",
     "has_stimulus": false,
     "question_type": "ความรู้/หลักการ",
-    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี"
+    "learning_hub": "หลักสูตร/ศาสตร์การสอน/เทคโนโลยี",
+    "_answer0": null
   }
 ]
